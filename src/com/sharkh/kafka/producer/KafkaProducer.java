@@ -1,4 +1,4 @@
-package com.sharkh.kafka;
+package com.sharkh.kafka.producer;
 
 public class KafkaProducer {
 
